@@ -1,0 +1,10 @@
+C:\Users\Dell\source\repos\bai4-DTB\bai4-DTB\bin\Debug\bai4-DTB.exe.config
+C:\Users\Dell\source\repos\bai4-DTB\bai4-DTB\bin\Debug\bai4-DTB.exe
+C:\Users\Dell\source\repos\bai4-DTB\bai4-DTB\bin\Debug\bai4-DTB.pdb
+C:\Users\Dell\source\repos\bai4-DTB\bai4-DTB\obj\Debug\bai4-DTB.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\bai4-DTB\bai4-DTB\obj\Debug\bai4_DTB.Form1.resources
+C:\Users\Dell\source\repos\bai4-DTB\bai4-DTB\obj\Debug\bai4_DTB.Properties.Resources.resources
+C:\Users\Dell\source\repos\bai4-DTB\bai4-DTB\obj\Debug\bai4-DTB.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\bai4-DTB\bai4-DTB\obj\Debug\bai4-DTB.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\bai4-DTB\bai4-DTB\obj\Debug\bai4-DTB.exe
+C:\Users\Dell\source\repos\bai4-DTB\bai4-DTB\obj\Debug\bai4-DTB.pdb

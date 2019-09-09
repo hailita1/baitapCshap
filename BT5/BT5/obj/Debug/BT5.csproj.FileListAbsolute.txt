@@ -1,0 +1,10 @@
+C:\Users\chopp\source\repos\BT5\BT5\obj\Debug\BT5.csprojAssemblyReference.cache
+C:\Users\chopp\source\repos\BT5\BT5\obj\Debug\BT5.Form1.resources
+C:\Users\chopp\source\repos\BT5\BT5\obj\Debug\BT5.Properties.Resources.resources
+C:\Users\chopp\source\repos\BT5\BT5\obj\Debug\BT5.csproj.GenerateResource.cache
+C:\Users\chopp\source\repos\BT5\BT5\obj\Debug\BT5.csproj.CoreCompileInputs.cache
+C:\Users\chopp\source\repos\BT5\BT5\bin\Debug\BT5.exe.config
+C:\Users\chopp\source\repos\BT5\BT5\bin\Debug\BT5.exe
+C:\Users\chopp\source\repos\BT5\BT5\bin\Debug\BT5.pdb
+C:\Users\chopp\source\repos\BT5\BT5\obj\Debug\BT5.exe
+C:\Users\chopp\source\repos\BT5\BT5\obj\Debug\BT5.pdb

@@ -1,0 +1,11 @@
+C:\Users\chopp\source\repos\bai2_btkt\bai2_btkt\bin\Debug\bai2_btkt.exe.config
+C:\Users\chopp\source\repos\bai2_btkt\bai2_btkt\bin\Debug\bai2_btkt.exe
+C:\Users\chopp\source\repos\bai2_btkt\bai2_btkt\bin\Debug\bai2_btkt.pdb
+C:\Users\chopp\source\repos\bai2_btkt\bai2_btkt\obj\Debug\bai2_btkt.csprojAssemblyReference.cache
+C:\Users\chopp\source\repos\bai2_btkt\bai2_btkt\obj\Debug\bai2_btkt.Form1.resources
+C:\Users\chopp\source\repos\bai2_btkt\bai2_btkt\obj\Debug\bai2_btkt.Properties.Resources.resources
+C:\Users\chopp\source\repos\bai2_btkt\bai2_btkt\obj\Debug\bai2_btkt.csproj.GenerateResource.cache
+C:\Users\chopp\source\repos\bai2_btkt\bai2_btkt\obj\Debug\bai2_btkt.csproj.CoreCompileInputs.cache
+C:\Users\chopp\source\repos\bai2_btkt\bai2_btkt\obj\Debug\bai2_btkt.exe
+C:\Users\chopp\source\repos\bai2_btkt\bai2_btkt\obj\Debug\bai2_btkt.pdb
+C:\Users\chopp\source\repos\bai2_btkt\bai2_btkt\obj\Debug\bai2_btkt.Form2.resources
